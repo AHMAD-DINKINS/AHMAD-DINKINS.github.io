@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ahmad Dinkins
+name: Privacy Protocol for Digital Contact Tracing
 
 # Short bio or description (displayed in the header)
-description: Privacy First Protocol for Contact Tracing
+description: This site depicts the development a of protocol that prevents relays attacks during digital contact tracing.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://ahmad-dinkins.github.io/images/privacy.png
