@@ -7,10 +7,12 @@ title: Privacy Protocol for Digital Contact Tracing
 {:toc}
 
 ## About Me
+![Ahmad Dinkins][/images/Ahmad.jpg]
 
 Hello all, my name is Ahmad Dinkins! I am an undergradute student at the University of Illinois at Urbana-Champaign. I am currenlty underdeclared but I plan to transfer into Computer Science. I have had a passion for computing since entering high school and hope that my future career encompasses it. My goal for this Summer is succesffuly implement our protocol and have the State of Illinois adopt an App that uses our protocol.
 
 ## About My Mentor
+![Madusudan Parthasrathy][/images/Madhusudan.jpg]
 
 Dr. Madhusudan Parthasarathy is a Computer Science Professor at the University of Illinois at Urbana-Champaign where he performs research with an emphasis on theory. Some of his research interests include Software verification, Security, Program Synthesis, and Machine Learning.
 
