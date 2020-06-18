@@ -18,7 +18,7 @@ Dr. Madhusudan Parthasarathy is a Computer Science Professor at the University o
 
 ## About My Project
 
-We want to develop an effective protocol that preserves the privacy of users in a contact tracing app. We are working a local team to develop such an app for the UIUC campus for Fall and working with companies such as Coalition to find solutions for the state of Illinois and possibly other countries. The protocols we have designed stave a class of relay attacks that no other current system can.
+We want to develop an effective protocol that preserves the privacy of users in a contact tracing app. We are working a local team to develop such an app for the UIUC campus for Fall and working with companies such as Coalition to find solutions for the state of Illinois and possibly other countries. The protocols we have designed stave a class of relay attacks that no other current system can. For more info: http://madhu.cs.illinois.edu/
 
 [My Final Report](files/finalreport.pdf)
 
