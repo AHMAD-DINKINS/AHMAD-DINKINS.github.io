@@ -9,7 +9,7 @@ title: Privacy Protocol for Digital Contact Tracing
 ## About Me
 ![Ahmad Dinkins](images/Ahmad.jpg){:class="img-responsive"}
 
-Hello all, my name is Ahmad Dinkins! I am an undergradute student at the University of Illinois at Urbana-Champaign. I am currenlty underdeclared but I plan to transfer into Computer Science. I have had a passion for computing since entering high school and hope that my future career encompasses it. My goal for this Summer is succesffuly implement our protocol and have the State of Illinois adopt an App that uses our protocol.
+Hello all, my name is Ahmad Dinkins! I am a Junior at the University of Illinois at Urbana-Champaign and expect to graduate in 2022. I am currenlty underdeclared but I plan to transfer into Computer Science. I have had a passion for computing since entering high school and hope that my future career encompasses it. My goal for this Summer is succesffuly implement our protocol and have the State of Illinois adopt an App that uses our protocol.
 
 ## About My Mentor
 ![Madusudan Parthasrathy](images/Madhusudan.jpg){:class="img-responsive"}
